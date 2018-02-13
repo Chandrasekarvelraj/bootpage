@@ -428,7 +428,7 @@ section h3.section-subheading {
   background-color: #0080ff;
   color: white;
   border-radius: 100%;
-  border: 7px solid lightgrey;
+  border: 3px solid lightgrey;
   text-align: center;
 }
 .timeline > li .timeline-image h4 {
@@ -555,7 +555,7 @@ section h3.section-subheading {
   margin-top: 0;
 }
 aside.clients img {
-  margin: 50px auto;
+  margin: 30px auto;
   padding-left: 50px;
   padding-right: 50px;
 }
